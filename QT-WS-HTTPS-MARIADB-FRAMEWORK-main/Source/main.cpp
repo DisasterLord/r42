@@ -28,7 +28,11 @@ int main(int argc, char *argv[])
     // Add Route
     server.addRoute("/json", "GET", new JSONTestRoute());
     server.addRoute("/http", "GET", new HTTPTestRoute());
+
+
     Game *g = new Game;
+
+
     // Start server on port 8080
     if (!server.start(8080)) {
         // If server failed to start, print error and exit

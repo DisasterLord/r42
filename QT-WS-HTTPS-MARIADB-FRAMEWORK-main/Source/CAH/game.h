@@ -8,14 +8,12 @@
 class Game
 {
 private:
-    Player *Players[3];
-    QVector<Card> CardsW;
-    QVector<Card> CardsB;
-    Card *ActiveCard;
+    Player *m_Players[3];
+    QVector<Card> m_whiteCards;
+    QVector<Card> m_blackCards;
+    Card *m_activeCard;
 public:
     Game();
-    void Get_CSVBCard();
-    void Get_CSVWCard();
     void Update();
     void GameRound();
 };

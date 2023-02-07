@@ -1,20 +1,24 @@
 #include "player.h"
 
-Player::Player(int id, QString name, bool tzar, int score, Card cards[10])
+Player::Player(int p_id, QString p_name, bool p_tzar, int p_score, Card (&p_card)[10])
 {
-    ID = id;
-    Name = name;
-    Tzar = tzar;
-    Score = score;
-    Cards = cards;
+    m_id = p_id;
+    m_name = p_name;
+    m_tzar = p_tzar;
+    m_score = p_score;
+
+    for (int i = 0; i < 10; i++) {
+        m_cards[i] = p_card[i];
+    }
+
 }
 
-void Player::add_Card(Card *p_Card)
+void Player::m_addCard(Card *p_card)
 {
 
 }
 
-void Player::remove_Card(Card *p_Card)
+void Player::m_removeCard(Card *p_card)
 {
 
 }
