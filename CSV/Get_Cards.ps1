@@ -3,21 +3,22 @@ class Result_BC
 {
   [int] $BC_ID
   [string] $BC_Text
-  [string] $BC_Benoetigt
+  [int] $BC_luecken
 }
 
 class Result_WC
 {
   [int] $WC_ID
   [string] $WC_Text
+  [int] $WC_luecken
 }
 
-$CardsJson = "C:\Users\Fabian\Documents\GitHub\r42\Programm\CSV\cah-cards-full.json"
-$BCardsCSV = "C:\Users\Fabian\Documents\GitHub\r42\Programm\CSV\B_Cards.csv"
-$WCardsCSV = "C:\Users\Fabian\Documents\GitHub\r42\Programm\CSV\W_Cards.csv"
+$CardsJson = "C:\Users\Fabian\Documents\GitHub\r42\CSV\cah-cards-full.json"
+$BCardsCSV = "C:\Users\Fabian\Documents\GitHub\r42\CSV\B_Cards.csv"
+$WCardsCSV = "C:\Users\Fabian\Documents\GitHub\r42\CSV\W_Cards.csv"
 
 $Results_BC = @()
-
+$Results_WC = @()
 function Get-BlackCards()
 {
     $ID = 1
@@ -38,7 +39,7 @@ function Get-BlackCards()
                     $BuildResult = [Result_BC]@{
                         BC_ID = $ID
                         BC_Text = $BCard.text
-                        BC_Benoetigt = $BCard.pick 
+                        BC_luecken = $BCard.pick 
                     }
                     $ID = $ID + 1
                     
@@ -67,6 +68,7 @@ function Get-WhiteCards()
                     $BuildResult = [Result_WC]@{
                         WC_ID = $ID
                         WC_Text = $WCard.Text
+                        WC_luecken = 0
                     }
                     $ID = $ID + 1
                     

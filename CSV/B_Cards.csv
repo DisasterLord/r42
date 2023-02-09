@@ -1,4 +1,4 @@
-"BC_ID";"BC_Text";"BC_Benoetigt"
+"BC_ID";"BC_Text";"BC_luecken"
 "1";"_ + _ = Hipsters";"2"
 "2";"_ is a sure sign of mankind's decline.";"1"
 "3";"_ would only happen in my worst nightmares.";"1"
@@ -38,9 +38,7 @@
 "37";"And what did you bring for show and tell?";"1"
 "38";"Anthropologists have recently discovered a primitive tribe that worships _.";"1"
 "39";"Arby's: We Have _.";"1"
-"40";"Are you thinking what I'm thinking, B1?
-
-I think I am, B2: it's _ time!";"1"
+"40";"Are you thinking what I'm thinking, B1? I think I am, B2: it's _ time!";"1"
 "41";"As my New Year's resolution, I vow to give up _.";"1"
 "42";"As the mom of five rambunctious boys, I'm no stranger to _.";"1"
 "43";"As the mum of five rambunctious boys, I'm no stranger to _.";"1"
@@ -81,10 +79,7 @@ I think I am, B2: it's _ time!";"1"
 "78";"Fun tip! When your man asks you to go down on him, try surprising him with _ instead.";"1"
 "79";"Future historians will agree that _ marked the beginning of America's decline.";"1"
 "80";"Having problems with _? Try _!";"2"
-"81";"Here is the church
-Here is the steeple
-Open the doors
-And there is _.";"1"
+"81";"Here is the church Here is the steeple Open the doors And there is _.";"1"
 "82";"Hey guys, welcome to Boston Pizza! Would you like to start the night off right with _?";"1"
 "83";"Hey guys, welcome to Chili's! Would you like to start the night off right with _?";"1"
 "84";"Hey guys, welcome to Sizzler! Would you like to start the night off right with _?";"1"
@@ -180,9 +175,7 @@ And there is _.";"1"
 "174";"Science will never explain _.";"1"
 "175";"Skidamarink a dink a dink, skidamarink a doo, I love _.";"1"
 "176";"Sorry everyone, I just _.";"1"
-"177";"Step 1: _.
-Step 2: _.
-Step 3: Profit.";"2"
+"177";"Step 1: _. Step 2: _. Step 3: Profit.";"2"
 "178";"Studies show that lab rats navigate mazes 50% faster after being exposed to _.";"1"
 "179";"Thank God for alcohol and _.";"1"
 "180";"That's right, I killed _. How, you ask? _.";"2"
@@ -201,9 +194,7 @@ Step 3: Profit.";"2"
 "193";"The theme for next year's Eurovision Song Contest is ""We are _.""";"1"
 "194";"The U.S. has begun airdropping _ to the children of Afghanistan.";"1"
 "195";"They said we were crazy. They said we couldn't put _ inside of _. They were wrong.";"2"
-"196";"This is the way the world ends
-This is the way the world ends
-Not with a bang but with _.";"1"
+"196";"This is the way the world ends This is the way the world ends Not with a bang but with _.";"1"
 "197";"This is your pilot speaking. Please prepare for _.";"1"
 "198";"This season at Steppenwolf, Samuel Beckett's classic existential play: Waitng for _.";"1"
 "199";"This season at the old Vic, Samuel Beckett's classic existential play: Waitng for _.";"1"
@@ -300,9 +291,7 @@ Not with a bang but with _.";"1"
 "290";"Because they are forbidden from masturbating, Mormons channel their repressed sexual energy into _.";"1"
 "291";"Blessed are you, Lord our God, creator of the universe, who has granted us _.";"1"
 "292";"But wait, there's more! If you order _ in the next 15 minutes, we'll throw in _ absolutely free!";"2"
-"293";"GREETINGS HUMANS
-I AM _ BOT
-EXECUTING PROGRAM.";"1"
+"293";"GREETINGS HUMANS I AM _ BOT EXECUTING PROGRAM.";"1"
 "294";"Heroin: a proud supporter of _.";"1"
 "295";"I really hope my grandma doesn't ask me to explain _ again.";"1"
 "296";"Kids these days with their iPods and their Internet. In my day, all we needed to pass the time was _.";"1"
@@ -324,43 +313,27 @@ EXECUTING PROGRAM.";"1"
 "312";"Up next on Nickelodeon: ""Clarissa Explains _.""";"1"
 "313";"Ain't it nifty? Barb and Bob hit 50! So get off your ass and raise a glass to 50 years of _.";"1"
 "314";"Duuuuuuude. You have got to go to space. _ is awesome in space.";"1"
-"315";"Five,
-four,
-three,
-two,
-one....
-_!";"1"
+"315";"Five, four, three, two, one.... _!";"1"
 "316";"For hunting in the King's forest, I hereby sentence you to death by _.";"1"
 "317";"Give me ten good men and 48 hours. I'll get you _.";"1"
-"318";"Goldfinger!
-He's the man,
-the man with _.";"1"
+"318";"Goldfinger! He's the man, the man with _.";"1"
 "319";"Goodbye, _, hello _!";"2"
 "320";"Here's a little something I learned in business school: The customer is always _.";"1"
-"321";"Hey, honey.
-For the bedroom, were you thinking, ""Robin's Egg Blue"" or _Pink?""";"1"
-"322";"I hate this job.
-I hate this place.
-Most of all, I hate _.
-I quit.";"1"
-"323";"I have solved politics.
-My solution is _.";"1"
+"321";"Hey, honey. For the bedroom, were you thinking, ""Robin's Egg Blue"" or _Pink?""";"1"
+"322";"I hate this job. I hate this place. Most of all, I hate _. I quit.";"1"
+"323";"I have solved politics. My solution is _.";"1"
 "324";"I so drunk I _.";"1"
 "325";"I swear to God I'm gonna murder my husband if he doesn't shut the fuck up about _.";"1"
 "326";"In bookstores now: ""From _ to _: A memoir.""";"2"
 "327";"In Radiohead's new single, Thom Yorke repeats the phrase ""_"" dozens of times over a skittering drum beat.";"1"
 "328";"It's finally happening! I'm finally doing it! Yes! It's time for _!";"1"
 "329";"It's late at night. You're in bed with your lover, Patrick Stewart. He leans over with a twinkle in his eye and asks ""How about _?""";"1"
-"330";"It's the 21st century.
-A woman shouldn't have to apologize for _.";"1"
+"330";"It's the 21st century. A woman shouldn't have to apologize for _.";"1"
 "331";"Ladies and gentlemen, I propose a two-pronged plan. The first prong will be _, and the second prong will be _.";"2"
 "332";"Live from Universal Studios, it's America's favorite game show! ""_ or _?""";"2"
 "333";"Millions of copies sold! Donald Trump's ""The Art of _.""";"1"
 "334";"New at TGI Fridays! It's what you've been waiting for: The _ Burger.";"1"
-"335";"Oh no!
-Here it comes!
-Ohhhhh god!
-It's _.";"1"
+"335";"Oh no! Here it comes! Ohhhhh god! It's _.";"1"
 "336";"Oh you haaaaaaave to see this new documentary on Netflix. I don't want to give anything away, but let's just say it will change the way you look at _.";"1"
 "337";"Oh, the weather outside is frightful. But _ is so delightful.";"1"
 "338";"One, two, three and to the four, Snoop Doggy Dogg and Dr. Dre is _.";"1"
@@ -377,14 +350,10 @@ It's _.";"1"
 "349";"What sounds great after four margaritas?";"1"
 "350";"What's hot, smelly, and about to die?";"1"
 "351";"What's secretly a Russian plot to destabilize the West?";"1"
-"352";"What's up, YouTube?
-User DanTheMan wanted to see _, so here we go.";"1"
+"352";"What's up, YouTube? User DanTheMan wanted to see _, so here we go.";"1"
 "353";"Why did the chicken cross the road?";"1"
 "354";"Why my mustache smell so bad?";"1"
-"355";"Yeah that's so hot.
-I'm so close.
-Talk about _ again!
-OH I'M CUMMING!";"1"
+"355";"Yeah that's so hot. I'm so close. Talk about _ again! OH I'M CUMMING!";"1"
 "356";"You can call me David Copperfield, because I'm about to make _ disappear.";"1"
 "357";"You city folk would never understand the quiet dignity of _.";"1"
 "358";"_? That's a no from me, dawg.";"1"
@@ -480,9 +449,7 @@ OH I'M CUMMING!";"1"
 "448";"CTV presents _, the story of _.";"2"
 "449";"In an attempt to reach a wider audience, the Royal Ontario Museum has opened an interactive exhibit on _.";"1"
 "450";"Next season on Celebrity Apprentice: _.";"1"
-"451";"O say, does _ yet wave
-
-o'er the land of the fre and the home of the brave?";"1"
+"451";"O say, does _ yet wave o'er the land of the fre and the home of the brave?";"1"
 "452";"The Royal Ontario Museum has just opened an interactive exhibit on _.";"1"
 "453";"What's the crustiest?";"1"
 "454";"When I am Prime Minister of Canada, I will create the Ministry of _.";"1"
@@ -519,9 +486,7 @@ o'er the land of the fre and the home of the brave?";"1"
 "485";"I have invented a new sport. I call it ""_ ball.""";"1"
 "486";"I lost my arm in a _ accident.";"1"
 "487";"Isn't this great, honey? Just you, me, the kids, and _.";"1"
-"488";"It's BIG.
-It's SCARY.
-It's _!";"1"
+"488";"It's BIG. It's SCARY. It's _!";"1"
 "489";"James Bond will return in ""No Time for _.""";"1"
 "490";"Joey, look out behind you! It's _!";"1"
 "491";"Kids, Dad is trying something new this week. It's called ""_"".";"1"
@@ -571,10 +536,7 @@ It's _!";"1"
 "535";"Having tired of poetry and music, the immortal elves now fill their days with _.";"1"
 "536";"Hell hath no fury like _.";"1"
 "537";"HELP WANTED: Need assistance with _. No experience necessary.";"1"
-"538";"Here is the church
-Here is the steeple
-Open the doors
-And there is _.";"1"
+"538";"Here is the church Here is the steeple Open the doors And there is _.";"1"
 "539";"Hi, this is Jim from accounting. We noticed a $1,200 charge labeled ""_."" Can you explain?";"1"
 "540";"Hidden behing the Mona Lisa, scientists recently found Da Vinci's original subject: _.";"1"
 "541";"I don't need to hold onto my youth, I just love _.";"1"
@@ -594,11 +556,7 @@ And there is _.";"1"
 "555";"And I would have gotten away with it, too, if it hadn't been for _!";"1"
 "556";"Awww, sick! I just saw this skater do a 720 kickflip into _!";"1"
 "557";"Dear Substitute Teacher, could you please stop _?";"1"
-"558";"DOCTOR:
-What seems to be the problem?
-
-YOU: 
-_.";"1"
+"558";"DOCTOR: What seems to be the problem? YOU:  _.";"1"
 "559";"Future Historians will agree that _ marked the beginning of America's decline.";"1"
 "560";"He who controls _ controls the world.";"1"
 "561";"I left Hamilton because I heard about _'s obsession with _.";"2"
@@ -632,9 +590,7 @@ _.";"1"
 "589";"Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about _. I love you, Casey";"1"
 "590";"Do not go gentle into that good night. Rage, rage against _?";"1"
 "591";"Every Sunday ""Insert Name"" goes to market to sell _, and every time comes home with Magic Beans.";"1"
-"592";"Forget Fifty Shades of Grey...
-
-Give me Fifty Shades of _!";"1"
+"592";"Forget Fifty Shades of Grey... Give me Fifty Shades of _!";"1"
 "593";"Honey, I have good news, and bad news.  The good news is that I'm _.  The bad news is that I'm _.";"2"
 "594";"How am I going to kill myself?";"1"
 "595";"I am become _, the destroyer of worlds.";"1"
@@ -648,12 +604,8 @@ Give me Fifty Shades of _!";"1"
 "603";"Other parents worry about _ but I stress over _.";"2"
 "604";"She's a lady in the streets, _ in the sheets.";"1"
 "605";"The Juice is loose.  And by Juice I mean _.";"1"
-"606";"This is the way the world ends
-This is the way the world ends
-Not with a bang but with _.";"1"
-"607";"This year's trendiest card game:
-
-""_ Against _.""";"2"
+"606";"This is the way the world ends This is the way the world ends Not with a bang but with _.";"1"
+"607";"This year's trendiest card game: ""_ Against _.""";"2"
 "608";"We played baseball with _.";"1"
 "609";"Wes Anderson's new movie is a whimsical look at _ starring _.";"2"
 "610";"What's going on with your female servicemembers?";"1"
@@ -683,10 +635,7 @@ Not with a bang but with _.";"1"
 "634";"If at first you don't succeed, try _.";"1"
 "635";"In the 1950s, psychologists prescribed _ as a cure for homosexually.";"1"
 "636";"LSD + _ = really bad time.";"1"
-"637";"Mom's to-do list:
- * Buy Groceries
- * Clean up _.
- * Soccer Practice.";"1"
+"637";"Mom's to-do list:  * Buy Groceries  * Clean up _.  * Soccer Practice.";"1"
 "638";"Most Americans would not vote for a candidate who is openly _.";"1"
 "639";"No, no, no, no, no, no, NO! I will NOT let _ ruin this wedding.";"1"
 "640";"Oh no! Siri, how do I fix _?";"1"
@@ -698,10 +647,7 @@ Not with a bang but with _.";"1"
 "646";"She's just one of the guys, you know? She likes beer, and football, and _.";"1"
 "647";"Son, take it from someone who's been around the block a few times. Nothin' puts her in the mood like _.";"1"
 "648";"Summer lovin', had me a blast. _, happened so fast.";"1"
-"649";"The top Google auto-complete results for ""Barack Obama"":
-Barack Obama Height.
-Barack Obama net worth.
-Barack Obama _.";"1"
+"649";"The top Google auto-complete results for ""Barack Obama"": Barack Obama Height. Barack Obama net worth. Barack Obama _.";"1"
 "650";"Then the princess kissed the frog, and all of a sudden the frog was _!";"1"
 "651";"There is no God. It's just _ and then you die.";"1"
 "652";"This Friday at the Liquid Lunge, it's _ Night! Ladies drink free.";"1"
@@ -747,11 +693,7 @@ Barack Obama _.";"1"
 "692";"Call the law offices of Goldstein & Goldstein, because no one should have to tolerate _ in the workplace.";"1"
 "693";"Charlie and the chocolate _.";"1"
 "694";"Dear Substitute Teacher, could you please stop _?";"1"
-"695";"DOCTOR:
-What seems to be the problem?
-
-YOU: 
-_.";"1"
+"695";"DOCTOR: What seems to be the problem? YOU:  _.";"1"
 "696";"During high school I never really fit in until I found _ club.";"1"
 "697";"During his short-lived boxing career, the Messiah fought under the name Jesus ""_"" Christ.";"1"
 "698";"Find a _ and pick it up, and all the day you'll have good luck.";"1"
@@ -796,9 +738,7 @@ _.";"1"
 "737";"This morning when you woke up next to me I thought _.";"1"
 "738";"To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of _.";"1"
 "739";"Tonight on Police 10 7 we're chasing _, rumoured to be responsible for _.";"2"
-"740";"Twas the night before Christmas, and all through the house,
-
-not a creature was stirring, not even _.";"1"
+"740";"Twas the night before Christmas, and all through the house, not a creature was stirring, not even _.";"1"
 "741";"Welcome to Senor Frog's! Would you like to try our signature cocktail, ""_ on the Beach""?";"1"
 "742";"What came in the mail today?";"1"
 "743";"What has been seen cannot be unssen! I just witnessed _.";"1"
@@ -885,9 +825,7 @@ not a creature was stirring, not even _.";"1"
 "824";"My love for you is like _: peaceful and deep.";"1"
 "825";"The Blues have as much chance of winning as _ has at getting laid.";"1"
 "826";"To protect the integrity of our democracy, voting booths in 2020 will be monitored by _.";"1"
-"827";"Twas the night before Christmas, and all through the house,
-
-not a creature was stirring, not even _.";"1"
+"827";"Twas the night before Christmas, and all through the house, not a creature was stirring, not even _.";"1"
 "828";"What made me this way?";"1"
 "829";"When you go to the polls on Tuesday, remember:  a vote for me is a vote for _.";"1"
 "830";"With every year that passes, I find it harder and harder to be _.";"1"
@@ -923,12 +861,9 @@ not a creature was stirring, not even _.";"1"
 "860";"Honey, it's gonna take more than a shitty greeting card to make up for ten years of _.";"1"
 "861";"I cannot stop smiling about _.";"1"
 "862";"Roses are red. Violets are blue. I am _ and so are you.";"1"
-"863";"Coming up on Turner Classic Movies:
-Sean Connery and Alec Baldwin star in ""The Hunt for _.""";"1"
-"864";"FW: re:
-FBI WARNING!!! VIOLENT GANGS USING _ TO RECRUIT CHILDREN!";"1"
-"865";"Hey, kids.
-I'm Connor's dad, but you can call me Mr. _.";"1"
+"863";"Coming up on Turner Classic Movies: Sean Connery and Alec Baldwin star in ""The Hunt for _.""";"1"
+"864";"FW: re: FBI WARNING!!! VIOLENT GANGS USING _ TO RECRUIT CHILDREN!";"1"
+"865";"Hey, kids. I'm Connor's dad, but you can call me Mr. _.";"1"
 "866";"So apparently Dad was searching Pornhub for ""hot milf _.""";"1"
 "867";"Whaddya think, money grows on trees? I'm not paying for _!";"1"
 "868";"Young lady, you better knock it off with _ or you're grounded!";"1"
@@ -1011,8 +946,7 @@ I'm Connor's dad, but you can call me Mr. _.";"1"
 "945";"The Discovery Channel presents: _ week.";"1"
 "946";"What's the weirdest thing that AdMagic has printed?";"1"
 "947";"I'm Bobby Flay, and if you can't stand _, get out of the kitchen!";"1"
-"948";"It's not delivery.
-It's _.";"1"
+"948";"It's not delivery. It's _.";"1"
 "949";"Aw babe, your burps smell like _!";"1"
 "950";"Don't miss Rachel Ray's hit new show, Cooking with _.";"1"
 "951";"Excuse me, waiter. Could take this back? This soup tastes like _.";"1"
@@ -1067,9 +1001,7 @@ It's _.";"1"
 "1000";"What really killed the dinosaurs?";"1"
 "1001";"Blood is thicker than _.";"1"
 "1002";"Donna, pick up my dry cleaning and get my wife something for Christmas. I think she likes _.";"1"
-"1003";"Here's what you can expect for the new year.
-Out: _.
-In: _.";"2"
+"1003";"Here's what you can expect for the new year. Out: _. In: _.";"2"
 "1004";"It's beginning to look a lot like _.";"1"
 "1005";"Jesus performed the miracle of _ but it was never recorded.";"1"
 "1006";"This holiday season, Tim Allen must overcome his fear of _ to save Christmas.";"1"
@@ -1077,14 +1009,10 @@ In: _.";"2"
 "1008";"Backers who supported Tabletop at the $25,000 level were astonished to receive _ from Wil Wheaton himself.";"1"
 "1009";"For my turn, I will spend four gold and allocate all three workers to _.";"1"
 "1010";"Hey, you guys want to try this awesome new game? It's called _.";"1"
-"1011";"Alright everybody, HOLD!
-Kelly, why is there _ on my stage?";"1"
+"1011";"Alright everybody, HOLD! Kelly, why is there _ on my stage?";"1"
 "1012";"Comedy = Tragedy + _.";"1"
 "1013";"Let's take it from the top, and remember, you are _. Show me  _(SAME CARD AGAIN)_.";"3"
-"1014";"Match-maker,
-match-maker,
-make me a match.
-Find me _.";"1"
+"1014";"Match-maker, match-maker, make me a match. Find me _.";"1"
 "1015";"This season at Manhattan Theatre Club: ""Who's afraid of _?""";"1"
 "1016";"_! All alone in the moonlight!";"1"
 "1017";"Ahhh _! Toodle pip!";"1"
