@@ -10,7 +10,7 @@ enum card_typ {
 
 struct Card
 {
-    Card() : id(0), text(""), luecken(0), typ(card_typ::NONE) {}
+    Card() : id(NULL), text(""), luecken(0), typ(card_typ::NONE) {}
     Card(int p_id, QString p_text, int p_luecken, card_typ p_typ);
     int id;
     QString text;

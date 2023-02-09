@@ -12,8 +12,9 @@ private:
     bool m_tzar;
     int m_score;
     Card m_cards[10];
+
 public:
-    Player(int p_id, QString p_name, bool p_tzar, int p_score, Card (&p_card)[10]);
+    Player(int p_id, QString p_name, bool p_tzar, int p_score);
     void m_addCard(Card* p_Card);
     void m_removeCard(Card* p_Card);
 };
