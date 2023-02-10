@@ -10,22 +10,22 @@ CONFIG += c++17
 
 SOURCES += \
     Views/view_finalscore.cpp \
+    Views/view_menuwindow.cpp \
     Views/view_multiplayer.cpp \
     Views/view_waitinginqueue.cpp \
-    main.cpp \
-    menuwindow.cpp
+    main.cpp
 
 HEADERS += \
     Views/view_finalscore.h \
+    Views/view_menuwindow.h \
     Views/view_multiplayer.h \
-    Views/view_waitinginqueue.h \
-    menuwindow.h
+    Views/view_waitinginqueue.h
 
 FORMS += \
     Views/view_finalscore.ui \
+    Views/view_menuwindow.ui \
     Views/view_multiplayer.ui \
-    Views/view_waitinginqueue.ui \
-    menuwindow.ui
+    Views/view_waitinginqueue.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
