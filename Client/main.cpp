@@ -5,7 +5,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    view_multiplayer w;
+    view_MenuWindow w;
     w.show();
     return a.exec();
 }

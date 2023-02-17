@@ -3,7 +3,7 @@
 Game::Game()
 {
     // Read White / Black Cards from CSV
-    QString csvPath = "C:\\Users\\Fabian\\Documents\\GitHub\\r42\\CSV\\";
+    QString csvPath = "../../r42/CSV/";
     m_blackCards = csv_utils::m_readCardCSV(csvPath + "B_Cards.csv", BLACK);
     m_blackCards.erase(m_blackCards.begin());
     m_whiteCards = csv_utils::m_readCardCSV(csvPath + "W_Cards.csv", WHITE);
