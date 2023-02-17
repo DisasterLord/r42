@@ -13,9 +13,11 @@ class Result_WC
   [int] $WC_luecken
 }
 
-$CardsJson = "C:\Users\Fabian\Documents\GitHub\r42\CSV\cah-cards-full.json"
-$BCardsCSV = "C:\Users\Fabian\Documents\GitHub\r42\CSV\B_Cards.csv"
-$WCardsCSV = "C:\Users\Fabian\Documents\GitHub\r42\CSV\W_Cards.csv"
+$MyDir = [System.IO.Path]::GetDirectoryName($myInvocation.MyCommand.Definition)
+Set-Location $MyDir
+$CardsJson = "cah-cards-full.json"
+$BCardsCSV = "B_Cards.csv"
+$WCardsCSV = "W_Cards.csv"
 
 $Results_BC = @()
 $Results_WC = @()
