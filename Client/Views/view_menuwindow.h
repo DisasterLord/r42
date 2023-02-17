@@ -2,6 +2,7 @@
 #define VIEW_MENUWINDOW_H
 
 #include <QMainWindow>
+#include "Views/view_waitinginqueue.h"
 
 namespace Ui {
 class view_MenuWindow;
@@ -21,6 +22,7 @@ private slots:
 
 private:
     Ui::view_MenuWindow *ui;
+    view_waitinginqueue *QueueWindow;
 };
 
 #endif // VIEW_MENUWINDOW_H

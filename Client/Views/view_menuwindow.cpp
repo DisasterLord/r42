@@ -27,8 +27,8 @@ void view_MenuWindow::on_btnMultiplayer_clicked()
     this->close();
 
     // Create Queue Window
-    /*
-    view_waitingInQueue* QueueWindow = view_waitingInQueue::getInstance();
+
+    view_waitinginqueue* QueueWindow = view_waitinginqueue::getInstance();
     QueueWindow->show();
-    */
+
 }
